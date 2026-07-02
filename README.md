@@ -92,4 +92,4 @@ tests/Unit/                   Streak calculation tests
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT
