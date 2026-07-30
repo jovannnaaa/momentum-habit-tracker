@@ -7,13 +7,13 @@ no JS build step required.
 
 ## Features
 
-- 🔐 Authentication (register / login / logout) using Laravel's built-in auth
-- ✅ One-tap daily check-ins per habit
-- 🔥 Current streak, longest streak, and 30-day completion rate calculations
-- 🗂️ Custom categories with color coding
-- 📊 Dashboard overview with aggregate stats
-- 🧪 PHPUnit feature & unit tests (auth, habit CRUD, streak logic, authorization)
-- 🎨 Tailwind CSS via CDN — zero front-end build tooling needed
+- Authentication (register / login / logout) using Laravel's built-in auth
+- One-tap daily check-ins per habit
+- Current streak, longest streak, and 30-day completion rate calculations
+- Custom categories with color coding
+- Dashboard overview with aggregate stats
+- PHPUnit feature & unit tests (auth, habit CRUD, streak logic, authorization)
+- Tailwind CSS via CDN — zero front-end build tooling needed
 
 ## Tech stack
 
@@ -90,6 +90,3 @@ tests/Unit/                   Streak calculation tests
 - Public habit-sharing / accountability partners
 - API + mobile client via Sanctum
 
-## License
-
-MIT
