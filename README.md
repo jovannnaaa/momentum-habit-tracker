@@ -1,4 +1,4 @@
-# Momentum — Habit Tracker
+# Momentum - Habit Tracker
 
 Momentum is a habit-tracking web app built with **Laravel 11**. Create habits, check in
 daily, and watch your streaks grow. It includes authentication, categories, streak/
